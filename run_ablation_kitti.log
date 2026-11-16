@@ -1,0 +1,4 @@
+usage: run_ablation.py [-h] --dataset {kitti,bdd100k} --out_root OUT_ROOT
+                       [--rounds ROUNDS] [--seeds SEEDS [SEEDS ...]]
+                       [--vehicles_per_edge VEHICLES_PER_EDGE] [--dry_run]
+run_ablation.py: error: unrecognized arguments: --gpu_ids 0

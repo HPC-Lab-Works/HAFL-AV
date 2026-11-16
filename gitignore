@@ -1,0 +1,36 @@
+# Data
+data_raw/
+data_prepared/
+*.csv
+*.parquet
+
+# Training outputs / experiment artifacts
+runs/
+outputs/
+checkpoints/
+*.pt
+*.pth
+*.ckpt
+wandb/
+*.log
+
+# Python
+__pycache__/
+*.pyc
+*.pyo
+.pytest_cache/
+*.egg-info/
+.eggs/
+build/
+dist/
+
+# Environments
+.venv/
+venv/
+.conda/
+env/
+
+# Editors / OS
+.vscode/
+.idea/
+.DS_Store
